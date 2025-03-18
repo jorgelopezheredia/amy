@@ -1,1 +1,1 @@
-# amy
+# amy: Proyectos sobre inteligencia artificial,con un enfoque hacia la resolución de problemas del area  de ingeniería industrial. Se iniciará con proyectos sobre prediciones de demanda, esencial para la programación de la producción y de los inventarios.
